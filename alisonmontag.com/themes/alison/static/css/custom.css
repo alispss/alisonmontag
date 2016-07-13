@@ -1,0 +1,48 @@
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+	color: #7365bb;
+}
+
+.centered-pills { text-align:center; }
+.centered-pills ul.nav-pills { display:inline-block; }
+.centered-pills li { display:inline; }
+.centered-pills a { float:left; }
+* html .centered-pills ul.nav-pills { display:inline; } /* IE6 */
+*+html .centered-pills ul.nav-pills { display:inline; } /* IE7 */
+
+@font-face {
+    font-family: 'Poiret One', cursive;
+	font-family: 'Amatica SC', cursive;
+}
+
+.nav-pills {
+	font-family: Amatica SC;
+	font-size: 20pt;
+}
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+ .nav-pills > li.active > a:focus {
+	background-color: #7365bb;
+}
+
+p {
+	font-family: Arial;
+
+}
+
+h1 {
+	font-family: Amatica SC;
+	font-size: 60pt;
+	text-align: center;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
