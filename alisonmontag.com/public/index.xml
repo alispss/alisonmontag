@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alison Montag</title>
-    <link>http://alisonmontag.com/</link>
+    <link>http://www.alisonmontag.com/</link>
     <description>Recent content on Alison Montag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Jul 2016 18:37:40 -0500</lastBuildDate>
-    <atom:link href="http://alisonmontag.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.alisonmontag.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cupcake</title>
-      <link>http://alisonmontag.com/art/cupcake/</link>
+      <link>http://www.alisonmontag.com/art/cupcake/</link>
       <pubDate>Tue, 19 Jul 2016 18:37:40 -0500</pubDate>
       
-      <guid>http://alisonmontag.com/art/cupcake/</guid>
-      <description>&lt;p&gt;&lt;img class=&#34;img-responsive center-block&#34; src=&#34;http://alisonmontag.com/img/cupcake.jpg&#34; width=&#34;700px&#34;&gt;
+      <guid>http://www.alisonmontag.com/art/cupcake/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;img-responsive center-block&#34; src=&#34;http://www.alisonmontag.com/img/cupcake.jpg&#34; width=&#34;700px&#34;&gt;
 &lt;p class=&#34;text-center&#34;&gt;A vegan cherry limeade cupcake&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>aboutme</title>
-      <link>http://alisonmontag.com/aboutme/</link>
+      <link>http://www.alisonmontag.com/aboutme/</link>
       <pubDate>Mon, 11 Jul 2016 21:49:41 -0500</pubDate>
       
-      <guid>http://alisonmontag.com/aboutme/</guid>
+      <guid>http://www.alisonmontag.com/aboutme/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;container&#34;&gt;
     &lt;div class=&#34;row&#34;&gt;
       &lt;div class=&#34;col-md-4 vcenter col-sm-6 col-xs-12 center-block&#34;&gt;
-        &lt;img src=&#34;http://alisonmontag.com/img/me.jpg&#34; class=&#34;img-circle center-block&#34;&gt;
+        &lt;img src=&#34;http://www.alisonmontag.com/img/me.jpg&#34; class=&#34;img-circle center-block&#34;&gt;
       &lt;/div&gt;&lt;!--
       --&gt;&lt;div class=&#34;col-md-8 col-sm-6 col-xs-12 vcenter center-block&#34;&gt;
         &lt;p&gt; I&amp;rsquo;m Alison! During the day, I work as a software engineer in Austin, TX. At night, my creative juices flow with calligraphy, painting, and drawing. This website is where I&amp;rsquo;ll be showcasing all the work I do and progress I&amp;rsquo;ve made. &lt;/p&gt;
