@@ -6,8 +6,26 @@
     <description>Recent content in Art on Alison Montag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jul 2016 18:37:40 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jul 2016 22:21:32 -0500</lastBuildDate>
     <atom:link href="http://www.alisonmontag.com/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wine</title>
+      <link>http://www.alisonmontag.com/art/wine/</link>
+      <pubDate>Fri, 22 Jul 2016 22:21:32 -0500</pubDate>
+      
+      <guid>http://www.alisonmontag.com/art/wine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chicken Coop</title>
+      <link>http://www.alisonmontag.com/art/chicken_coop/</link>
+      <pubDate>Thu, 21 Jul 2016 22:21:45 -0500</pubDate>
+      
+      <guid>http://www.alisonmontag.com/art/chicken_coop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cupcake</title>
@@ -15,9 +33,7 @@
       <pubDate>Tue, 19 Jul 2016 18:37:40 -0500</pubDate>
       
       <guid>http://www.alisonmontag.com/art/cupcake/</guid>
-      <description>&lt;p&gt;&lt;img class=&#34;img-responsive center-block&#34; src=&#34;http://www.alisonmontag.com/img/cupcake.jpg&#34; width=&#34;700px&#34;&gt;
-&lt;p class=&#34;text-center&#34;&gt;A vegan cherry limeade cupcake&lt;/p&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

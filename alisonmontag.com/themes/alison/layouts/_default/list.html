@@ -6,11 +6,13 @@
 <div class="container">
   <div class="row">
       {{ range .Data.Pages }}
-          <div class="listing col-md-3" style="background-image:url({{ .Params.cover }})">
-            <a href="{{ .Permalink }}">
-              <h1>{{ .Title }}</h1>
-              <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-            </a>
+          <div class="col-md-3" >
+            <div class="listing" style="background-image:url({{ .Params.cover }})">
+              <a href="{{ .Permalink }}">
+                <h1>{{ .Title }}</h1>
+                <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+              </a>
+            </div>
           </div>
       {{ end }}
   </div>

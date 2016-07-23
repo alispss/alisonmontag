@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chicken on Alison Montag</title>
+    <link>http://www.alisonmontag.com/tags/chicken/</link>
+    <description>Recent content in Chicken on Alison Montag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Jul 2016 22:21:45 -0500</lastBuildDate>
+    <atom:link href="http://www.alisonmontag.com/tags/chicken/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Chicken Coop</title>
+      <link>http://www.alisonmontag.com/art/chicken_coop/</link>
+      <pubDate>Thu, 21 Jul 2016 22:21:45 -0500</pubDate>
+      
+      <guid>http://www.alisonmontag.com/art/chicken_coop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
