@@ -10,8 +10,8 @@
   <title>Alison Montag</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="{{ .baseurl }}/css/bootstrap.min.css" rel="stylesheet">
-  <link href="{{ .baseurl }}/css/custom.css" rel="stylesheet">
+  <link href="{{ .Site.BaseURL }}/css/bootstrap.min.css" rel="stylesheet">
+  <link href="{{ .Site.BaseURL }}/css/custom.css" rel="stylesheet">
 
   <!-- fonts -->
   <link href="https://fonts.googleapis.com/css?family=Amatica+SC|Poiret+One" rel="stylesheet">
@@ -20,9 +20,9 @@
     <div class="header clearfix">
       <nav>
         <ul class="nav nav-pills pull-right">
-          <li role="presentation"><a href="https://twitter.com/alispss" target="_blank"><img src="{{ .baseurl }}/img/twitter.png" height="42" width="42"/></a></li>
-          <li role="presentation"><a href="https://facebook.com/alispss" target="_blank"><img src="{{ .baseurl }}/img/facebook.png" height="42" width="42"/></a></li>
-          <li role="presentation"><a href="https://instagram.com/alispss" target="_blank"><img src="{{ .baseurl }}/img/instagram.png" height="42" width="42"/></a></li>
+          <li role="presentation"><a href="https://twitter.com/alispss" target="_blank"><img src="{{ .Site.BaseURL }}/img/twitter.png" height="42" width="42"/></a></li>
+          <li role="presentation"><a href="https://facebook.com/alispss" target="_blank"><img src="{{ .Site.BaseURL }}/img/facebook.png" height="42" width="42"/></a></li>
+          <li role="presentation"><a href="https://instagram.com/alispss" target="_blank"><img src="{{ .Site.BaseURL }}/img/instagram.png" height="42" width="42"/></a></li>
         </ul>
       </nav>
     </div>
@@ -30,7 +30,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-        <a href="{{ .baseurl }}"><img class="img-responsive center-block" src="{{ .baseurl }}/img/Logo.jpg" ></a>
+        <a href="{{ .Site.BaseURL }}"><img class="img-responsive center-block" src="{{ .Site.BaseURL }}/img/Logo.jpg" ></a>
         </div>
       </div>
     </div>
@@ -41,9 +41,9 @@
         <div class="col-md-12 centered-pills">
           <nav>
             <ul class="nav nav-pills target-active" id="navbar">
-              <li><a href="{{ .baseurl }}/aboutme">About Me</a></li>
+              <li><a href="{{ .Site.BaseURL }}/aboutme">About Me</a></li>
               <!--li><a href="#">Calligraphy</a></li-->
-              <li><a href="{{ .baseurl }}/art">Art</a></li>
+              <li><a href="{{ .Site.BaseURL }}/art">Art</a></li>
             </ul>
           </nav>
         </div>
